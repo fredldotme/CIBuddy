@@ -2,12 +2,12 @@
 
 namespace JenkinsBuddy
 {
-    public partial class App : Application
+    public partial class JBApp : Application
     {
-        public App()
+        public JBApp()
         {
             InitializeComponent();
-            MainPage = new MainPage();
+            MainPage = new JBMainPage();
         }
     }
 }

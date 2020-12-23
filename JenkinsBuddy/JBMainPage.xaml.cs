@@ -2,9 +2,9 @@
 
 namespace JenkinsBuddy
 {
-    public partial class MainPage : ContentPage
+    public partial class JBMainPage : ContentPage
     {
-        public MainPage()
+        public JBMainPage()
         {
             InitializeComponent();
             
