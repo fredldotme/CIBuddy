@@ -1,0 +1,3 @@
+[submodule "3rdparty/Jenkins.NET"]
+	path = 3rdparty/Jenkins.NET
+	url = https://github.com/fredldotme/Jenkins.NET.git
