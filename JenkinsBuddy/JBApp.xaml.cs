@@ -7,7 +7,7 @@ namespace JenkinsBuddy
         public JBApp()
         {
             InitializeComponent();
-            MainPage = new JBMainPage();
+            MainPage = new NavigationPage(new JBMainPage());
         }
     }
 }
